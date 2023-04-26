@@ -1,4 +1,4 @@
-Algoritmo "retangular"
+Algoritmo "retangulo"
 
 Var
   base,altura,area,perimetro, diagonal: real
